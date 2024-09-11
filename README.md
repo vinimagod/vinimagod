@@ -1,5 +1,15 @@
-## Hi there 👋
 
+![USA Flag](https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/usaFlagIcon2.png)
+## Hello everyone👋, i'm Vinícius Madureira, as known as Maderera. Feel free to look arround :)
+I'm a brazilian computer science student that loves drawing, listen music, play games and watch cartoons. I am graduated from the technical course in electrical engineering at SENAI, and I have a little knowledge in web development.
+
+Actualy i'm improving my skill in web development studying Angular, React, PHP and learning more about Python and SQL
+
+![Bandeira do Brasil](https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/brazilFlagIcon.png)
+## Eaí galera 👋, eu me chamo Vinícius Madureira, também conhecido como Maderera. Sinta-se a vontade para dar uma olhada por ai :)
+Eu sou um estudante de ciência da computação brasileiro que ama desenhar, ouvir música, jogar e assistir desenhos. Eu sou formado no curso técnico do SENAI de eletrotécina, e tenho um pouco de conhecimento em desenvolvimento web.
+
+Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando Angular, React, PHP e aprendendo mais sobre Python e SQL
 <!--
 **ViniciusMGodinho/ViniciusMGodinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
