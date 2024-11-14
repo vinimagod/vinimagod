@@ -36,6 +36,6 @@ Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando 
 <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=vinimagod&theme=dark&hide_border=false">
 
 ## Contacts / Contatos
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madereraaa)  [![Threads](https://img.shields.io/badge/-Threads-%23000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@vinimagod)  [![Linkedin](https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-m-godinho-b4155623a)  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madereraaa) [![Linkedin](https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-m-godinho-b4155623a)  
 
 </div>
