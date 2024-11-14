@@ -9,7 +9,7 @@ Actualy i'm improving my skill in web development studying Angular, React, PHP a
 ## Eaí galera 👋, eu me chamo Vinícius Madureira, também conhecido como Maderera. Sinta-se a vontade para dar uma olhada por ai :)
 Eu sou um estudante de ciência da computação brasileiro que ama desenhar, ouvir música, jogar e assistir desenhos. Eu sou formado no curso técnico do SENAI de eletrotécina, e tenho um pouco de conhecimento em desenvolvimento web.
 
-Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando Angular, React, PHP e aprendendo mais sobre Python e SQL
+Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando Angular e aprendendo mais sobre Python e SQL
 
 <div align="center">
 
@@ -22,13 +22,11 @@ Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando 
 
 ## Skills / Habilidades
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 57px; height: 57px;" /> <!-- ANGULAR -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="width: 57px; height: 57px;" /> <!-- REACT -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 57px; height: 57px;" /> <!-- JAVASCRIPT -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 57px; height: 57px;" /> <!-- HMTL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 57px; height: 57px;" /> <!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 57px; height: 57px;" /> <!-- JAVA -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 57px; height: 57px;" /> <!-- PYTHON -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width: 57px; height: 57px;" /> <!-- PHP -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width: 57px; height: 57px;" /> <!-- MSSQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width: 57px; height: 57px;" /> <!-- POSTGRESQL -->
 
