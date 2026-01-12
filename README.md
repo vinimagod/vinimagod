@@ -16,17 +16,23 @@ Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando 
 ## Softwares / Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" style="width: 57px; height: 57px;" /> <!-- WINDOWS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" style="width: 57px; height: 57px;" /> <!-- VSCODE -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" style="width: 57px; height: 57px;" /> <!-- VISUAL STUDIOo -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ" style="width: 57px; height: 57px;" /> <!-- INTELLIJ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Collab" style="width: 57px; height: 57px;" /> <!-- JUPYTER NOTEBOOK -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" style="width: 57px; height: 57px;" /> <!-- BLENDER -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" title="Unity" style="width: 57px; height: 57px;" /> <!-- UNITY -->
 
 ## Skills / Habilidades
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" style="width: 57px; height: 57px;" /> <!-- ANGULAR -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" title="Ionic" style="width: 57px; height: 57px;" /> <!-- IONIC -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" style="width: 57px; height: 57px;" /> <!-- JAVASCRIPT -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" style="width: 57px; height: 57px;" /> <!-- HMTL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" style="width: 57px; height: 57px;" /> <!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" style="width: 57px; height: 57px;" /> <!-- C# -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" style="width: 57px; height: 57px;" /> <!-- JAVA -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" style="width: 57px; height: 57px;" /> <!-- PYTHON -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" style="width: 57px; height: 57px;" /> <!-- VERCEL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" title="Supabase" style="width: 57px; height: 57px;" /> <!-- SUPABASE -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microssoft SQL Server" style="width: 57px; height: 57px;" /> <!-- MSSQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="width: 57px; height: 57px;" /> <!-- POSTGRESQL -->
 
