@@ -31,7 +31,7 @@ Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="width: 57px; height: 57px;" /> <!-- POSTGRESQL -->
 
 ## GitHub
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinimagod&theme=dracula)](https://github.com/vinimagod)
+[![Top Langs](https://github-readme-stats-two-tau-28.vercel.app/api/top-langs/?username=vinimagod&theme=dracula)](https://github.com/vinimagod)
 
 <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=vinimagod&theme=dark&hide_border=false">
 
