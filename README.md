@@ -1,15 +1,24 @@
+![Bandeira do Brasil](https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/brazilFlagIcon.png)
+## Olá 👋 Eu sou o Vinícius Madureira (Maderera)
+
+💻 Desenvolvedor de Software | Bacharel em Ciência da Computação  
+
+Sou desenvolvedor de software com boa base em ciência da computação e experiência com diferentes tecnologias.  
+Gosto de resolver problemas, aprender novas ferramentas e desenvolver aplicações utilizando boas práticas e código limpo.
+
+Atualmente trabalho com tecnologias como **Java, Python, JavaScript, Ionic, Angular, SQL e Git**, buscando evolução constante por meio de projetos práticos.
 
 ![USA Flag](https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/usaFlagIcon2.png)
-## Hello everyone👋, i'm Vinícius Madureira, as known as Maderera. Feel free to look arround :)
-I'm a brazilian computer science student that loves drawing, listen music, play games and watch cartoons. I am graduated from the technical course in electrical engineering at SENAI, and I have a little knowledge in web development.
+## Hello 👋 I'm Vinícius Madureira (Maderera)
 
-Actualy i'm improving my skill in web development studying Angular, React, PHP and learning more about Python and SQL
+💻 Software Developer | B.Sc. in Computer Science  
 
-![Bandeira do Brasil](https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/brazilFlagIcon.png)
-## Eaí galera 👋, eu me chamo Vinícius Madureira, também conhecido como Maderera. Sinta-se a vontade para dar uma olhada por ai :)
-Eu sou um estudante de ciência da computação brasileiro que ama desenhar, ouvir música, jogar e assistir desenhos. Eu sou formado no curso técnico do SENAI de eletrotécina, e tenho um pouco de conhecimento em desenvolvimento web.
+I'm a software developer with a solid foundation in computer science and experience with different technologies.  
+I enjoy solving problems, learning new tools and building applications with clean code and good practices.
 
-Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando Angular e aprendendo mais sobre Python e SQL
+Currently working with technologies such as **Java, Python, JavaScript, Ionic, Angular, SQL and Git**, and continuously improving my skills through practical projects.
+
+
 
 <div align="center">
 
@@ -42,6 +51,8 @@ Atualmente estou melhorando minhas habilidades no desenvolvimento web estudando 
 <img height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=vinimagod&theme=dark&hide_border=false">
 
 ## Contacts / Contatos
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madereraaa) [![Linkedin](https://img.shields.io/badge/-Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-m-godinho-b4155623a/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/madereraaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vinicius-m-godinho-b4155623a/)
+
+
 
 </div>
