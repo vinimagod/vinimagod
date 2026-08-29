@@ -39,6 +39,7 @@ Currently working with technologies such as **Java, Python, JavaScript, Ionic, A
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" style="width: 57px; height: 57px;" /> <!-- REACT -->
 
 ### Backend
+![Micronaut](https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/brazilFlagIcon.png)
 micronaut
 
 ## Linguagens
