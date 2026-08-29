@@ -25,30 +25,31 @@ Currently working with technologies such as **Java, Python, JavaScript, Ionic, A
 ## Softwares / Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" style="width: 57px; height: 57px;" /> <!-- WINDOWS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" style="width: 57px; height: 57px;" /> <!-- VSCODE -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" style="width: 57px; height: 57px;" /> <!-- VISUAL STUDIOo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" style="width: 57px; height: 57px;" /> <!-- VISUAL STUDIO -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ" style="width: 57px; height: 57px;" /> <!-- INTELLIJ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" style="width: 57px; height: 57px;" /> <!-- DOCKER -->          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Collab" style="width: 57px; height: 57px;" /> <!-- JUPYTER NOTEBOOK -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" style="width: 57px; height: 57px;" /> <!-- BLENDER -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" title="Unity" style="width: 57px; height: 57px;" /> <!-- UNITY -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" style="width: 57px; height: 57px;" /> <!-- VERCEL -->
 
 ## Frameworks
-### Frontend
+<!--Frontend-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" style="width: 57px; height: 57px;" /> <!-- ANGULAR -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" title="Ionic" style="width: 57px; height: 57px;" /> <!-- IONIC -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" style="width: 57px; height: 57px;" /> <!-- REACT -->
-
-### Backend
-![Micronaut](https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/brazilFlagIcon.png)
-micronaut
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" style="width: 57px; height: 57px;" /> <!-- NEXT -->      
+<!-- Backend -->          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Springboot" style="width: 53px; height: 53px;" /> <!-- SPRINGBOOT -->
+<img src="https://github.com/ViniciusMGodinho/ViniciusMGodinho/blob/main/Imagens/micronaut-logo.png" title="Micronaut" style="width: 57px; height: 57px;" /> <!-- MICRONAUT -->
 
 ## Linguagens
-### Frontend
+<!--Frontend-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" style="width: 57px; height: 57px;" /> <!-- JAVASCRIPT -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" style="width: 57px; height: 57px;" /> <!-- TYPECRIPT -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" style="width: 57px; height: 57px;" /> <!-- HMTL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" style="width: 57px; height: 57px;" /> <!-- CSS -->
-
-### Backend
+<!-- Backend -->  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" style="width: 57px; height: 57px;" /> <!-- C# -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" style="width: 57px; height: 57px;" /> <!-- JAVA -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" style="width: 57px; height: 57px;" /> <!-- PYTHON -->
