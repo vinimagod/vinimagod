@@ -30,21 +30,34 @@ Currently working with technologies such as **Java, Python, JavaScript, Ionic, A
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Collab" style="width: 57px; height: 57px;" /> <!-- JUPYTER NOTEBOOK -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title="Blender" style="width: 57px; height: 57px;" /> <!-- BLENDER -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" title="Unity" style="width: 57px; height: 57px;" /> <!-- UNITY -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" style="width: 57px; height: 57px;" /> <!-- VERCEL -->
 
-## Skills / Habilidades
+## Frameworks
+### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" style="width: 57px; height: 57px;" /> <!-- ANGULAR -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" title="Ionic" style="width: 57px; height: 57px;" /> <!-- IONIC -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" style="width: 57px; height: 57px;" /> <!-- REACT -->
+
+### Backend
+micronaut
+
+## Linguagens
+### Frontend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" style="width: 57px; height: 57px;" /> <!-- JAVASCRIPT -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" style="width: 57px; height: 57px;" /> <!-- HMTL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" style="width: 57px; height: 57px;" /> <!-- CSS -->
+
+### Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" style="width: 57px; height: 57px;" /> <!-- C# -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" style="width: 57px; height: 57px;" /> <!-- JAVA -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" style="width: 57px; height: 57px;" /> <!-- PYTHON -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" style="width: 57px; height: 57px;" /> <!-- VERCEL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" title="Supabase" style="width: 57px; height: 57px;" /> <!-- SUPABASE -->
+
+### Banco de dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" title="MongoDB" style="width: 57px; height: 57px"/> <!-- MONGODB -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microssoft SQL Server" style="width: 57px; height: 57px;" /> <!-- MSSQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="width: 57px; height: 57px;" /> <!-- POSTGRESQL -->
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" title="Supabase" style="width: 57px; height: 57px;" /> <!-- SUPABASE -->
+          
 ## GitHub
 [![Top Langs](https://github-readme-stats-two-tau-28.vercel.app/api/top-langs/?username=vinimagod&theme=dracula)](https://github.com/vinimagod)
 
